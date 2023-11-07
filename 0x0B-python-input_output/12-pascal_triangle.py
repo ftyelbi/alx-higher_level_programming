@@ -1,5 +1,4 @@
-
-i#!/usr/bin/python3
+#!/usr/bin/python3
 """Writes a Pascal's Triangle function"""
 
 
